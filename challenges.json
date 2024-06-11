@@ -1,0 +1,26 @@
+
+[
+    {
+        "name": "Crypto",
+        "ping_creators": true,
+        "challenges": [
+            {
+                "name": "test1",
+                "creators": []
+            },
+            {
+                "name": "test2",
+                "creators": []
+            }
+        ]
+    },
+    {
+        "name": "Web",
+        "ping_category": true,
+        "challenges": [
+            {
+                "name": "test3"
+            }
+        ]
+    }
+]
