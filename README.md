@@ -49,4 +49,4 @@ python3 main.py
 - Add ticket transcripts in a logs channel for CTF admins.
 
 ## Known Bugs
-- Occasionally defer can trigger and cause commands to partially fail.
+- Interaction defference can cause some commands to partially execute wrong, [known issue](https://github.com/discord/discord-api-docs/issues/5558).
